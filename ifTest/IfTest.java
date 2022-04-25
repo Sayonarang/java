@@ -3,19 +3,19 @@ package test;
 public class IfTest {
 
 	public static void main(String[] args) {
-		// Á¶°Ç¹®
+		// ì¡°ê±´ë¬¸ -ifë¬¸
 		int score = 93;
 		
 		
 		if(score >=90) {
-			System.out.println("Á¡¼ö°¡ 90Á¡ º¸´Ù Å®´Ï´Ù");
-			System.out.println("µî±ŞÀÌ AÀÔ´Ï´Ù");
+			System.out.println("ì ìˆ˜ê°€ 90ì  ë³´ë‹¤ í½ë‹ˆë‹¤");
+			System.out.println("ë“±ê¸‰ì´ Aì…ë‹ˆë‹¤");
 			
 		}
 	
 		if(score <90) {
-			System.out.println("Á¡¼ö°¡ 90Á¡ º¸´Ù ÀÛ½À´Ï´Ù");
-			System.out.println("µî±ŞÀÌ BÀÔ´Ï´Ù");
+			System.out.println("ì ìˆ˜ê°€ 90ì  ë³´ë‹¤ ì‘ìŠµë‹ˆë‹¤");
+			System.out.println("ë“±ê¸‰ì´ Bì…ë‹ˆë‹¤");
 		
 		}
 		
